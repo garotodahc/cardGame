@@ -1,0 +1,3 @@
+A carta 3D é a base onde serão importadas as texturas das cartas, notem que são 2 objetos: 
+Corpo; que nunca vai mudar; é a parte traseira da carta.
+Face; é onde fica as diferentes texturas cas cartas.

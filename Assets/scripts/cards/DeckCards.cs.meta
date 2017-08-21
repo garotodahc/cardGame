@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 99231ad25436f8449a70f462df438b59
+timeCreated: 1437700199
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabCarta: {instanceID: 0}
+  - sortearBtn: {instanceID: 0}
+  - resetarBtn: {instanceID: 0}
+  - contComb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

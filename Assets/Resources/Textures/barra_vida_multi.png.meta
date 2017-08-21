@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: c04e4b3929fe61b48af4099c181d793f
+timeCreated: 1437440641
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: barra_vida_multi_0
+    21300002: barra_vida_multi_1
+    21300004: barra_vida_multi_2
+    21300006: barra_vida_multi_3
+    21300008: barra_vida_multi_4
+    21300010: barra_vida_multi_5
+    21300012: barra_vida_multi_6
+    21300014: barra_vida_multi_7
+    21300016: barra_vida_multi_8
+    21300018: barra_vida_multi_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 4
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: barra_vida_multi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 327
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 294
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 262
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 229
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 196
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 164
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 131
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: barra_vida_multi_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

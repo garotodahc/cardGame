@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\criarGurreiro.cs">
+    <Files>
+      <File FileName="Assets\scripts\cards\DeckCards.cs" Line="109" Column="16" />
+      <File FileName="Assets\scripts\atributosDaCarta.cs" Line="10" Column="17" />
+      <File FileName="Assets\scripts\frenteDaCarta.cs" Line="21" Column="1" />
+      <File FileName="Assets\scripts\selecionarComb.cs" Line="11" Column="3" />
+      <File FileName="Assets\scripts\contComb.cs" Line="45" Column="57" />
+      <File FileName="Assets\scripts\criarGurreiro.cs" Line="17" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,8 @@
+A tela de gameplay deve ser semelhante ao preview, levitando acima dos retangulos brancos ficam as 20 cartas básicas.
+
+
+
+O função sorteio tem limite de uso, por isso existem 2 botões sorteio, um ativo e outro dead.
+
+Para simplificar o projeto, nessa versão demo não existe função de pausa ou de interromper o duelo.
+

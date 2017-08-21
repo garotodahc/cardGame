@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\inventory.cs">
+    <Files>
+      <File FileName="Assets\scripts\inventory.cs" Line="37" Column="1" />
+      <File FileName="Assets\scripts\cards\card_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\cards\DeckCards.cs" Line="110" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
